@@ -1,5 +1,6 @@
 import './style.css'
 import typescriptLogo from './typescript.svg'
+import './ejemplos-ts/02--onj-interfz-arre.ts'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
 
