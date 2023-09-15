@@ -31,3 +31,11 @@ const{autor,year}=detalles
 console.log(`los segundos son :${segundos}`);
 console.log(`los segundos son :${volumen}`);
 console.log(`los segundos son :${autor}`);
+
+const colores:string[]=['blue','red','green','violet'];
+console.log(`color 1: ${colores[0]}`);
+console.log(`color 1: ${colores[1]}`);
+console.log(`color 1: ${colores[3]}`);
+
+const[a,,,b]=colores;
+console.log(`color 2: ${a}`);
